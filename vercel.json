@@ -1,9 +1,0 @@
-{
-  "buildCommand": "echo 'Static site, no build required'",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
-}
