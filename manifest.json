@@ -1,0 +1,21 @@
+{
+  "short_name": "POS ERP",
+  "name": "Modern POS ERP",
+  "description": "A modern, easy-to-use Point of Sale (POS) and Enterprise Resource Planning (ERP) system.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/android-chrome/src/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.gstatic.com/android-chrome/src/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc"
+}
