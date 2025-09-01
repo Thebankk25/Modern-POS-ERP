@@ -1,9 +1,9 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.tsx';
-import { InventoryProvider } from './hooks/useInventory.ts';
-import { AiProvider } from './hooks/useAi.ts';
+import App from './App';
+import { InventoryProvider } from './hooks/useInventory';
+import { AiProvider } from './hooks/useAi';
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
